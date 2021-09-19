@@ -330,6 +330,7 @@ footer {
   padding: 1rem 1.2rem;
   border-radius: 5px;
 }
+
 @media (max-width: 680px) {
   .showcase-top img {
     transition: 1s;
